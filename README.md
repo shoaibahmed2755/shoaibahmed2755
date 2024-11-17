@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning and working on **React** and expanding my full-stack skills.
 - 💞️ I’m looking to collaborate on **open-source projects**, **web apps**, and **full-stack applications**.
 - 📫 How to reach me:
-  - **Email:** your-email@example.com
-  - **LinkedIn:** [Your LinkedIn Profile](#)
-  - **Instagram:** [Your Instagram Profile](#)
+  - **Email:** shoaibahmed2755@gmail.com
+  - **LinkedIn:** [https://www.linkedin.com/in/shoaib-ahmed-b05973274/](#)
+  - **Instagram:** [https://www.instagram.com/shoaibahmed__1/#](#)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love **singing** and enjoy exploring different genres of music, from classical to modern pop. 🎤 I also dabble in music production and creating my own tracks in my free time! 🎶
 
