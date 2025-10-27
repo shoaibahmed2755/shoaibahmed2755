@@ -1,10 +1,8 @@
-# Hey there 👋, I'm Hrithik Prativadi Bhayankara 
+# Hey there 👋, I'm Shoaib Ahmed  
 
-### Software Engineer - Full Stack Developer
+### Java Developer | Full Stack Enthusiast  
 
-Whether it's crafting seamless user experiences, developing robust applications, or leveraging machine learning and autonomous systems, I am committed to delivering excellence and contributing to the development of groundbreaking solutions that have a lasting impact.
-
-- 💬 Ask me about Full Stack, DevOps, Cloud Engineering (AWS S3, RDS, Elastic Beanstalk), CI/CD and I would be more than happy to help you. 😁
+I’m a **BE Information Science student** from **Bangalore** with a passion for building seamless, high-performance web experiences. Skilled in **full-stack development** and **Natural Language Processing (NLP)**, I love blending technology and creativity to develop **smart, human-centric digital solutions** powered by modern tools and clean design principles.  
 
 <br/>
 
