@@ -25,8 +25,24 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/hrithikpb/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="mailto:hrithikpb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+### Contact me:
+
+<a href="https://www.linkedin.com/in/hrithikpb/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:hrithikpb@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
+</a>
+<a href="https://github.com/hrithikpb">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://x.com/hrithikpb">
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter/X"/>
+</a>
+<a href="https://www.instagram.com/hrithikpb/">
+  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
+</a>
+
 
 ### Toolset
 
