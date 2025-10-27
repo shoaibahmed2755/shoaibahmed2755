@@ -115,21 +115,26 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Hrithikpb&row=3&column=4&no-bg=true"/>
+            <!-- GitHub Profile Trophy -->
+            <img src="https://github-profile-trophy.vercel.app/?username=shoaibahmed2755&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithikpb"/>
+            <!-- GitHub Streak Stats -->
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibahmed2755"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Hrithikpb&count_private=true&show_icons=true&theme=tokyonight"/>
+            <!-- GitHub Main Stats -->
+            <img src="https://github-readme-stats.vercel.app/api?username=shoaibahmed2755&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikpb&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <!-- GitHub Top Languages -->
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed2755&langs_count=10&layout=compact"/>
         </td>
     </tr>
 </table>
+
 
 ### My Leetcode Stats
 
