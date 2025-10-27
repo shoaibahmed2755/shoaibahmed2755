@@ -40,79 +40,67 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 ### Toolset
 
-<h3 align="">🧩 Tech Stack</h3>
-
-<table align="center">
+<table>
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
-      <p align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>TypeScript
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>JavaScript
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Java
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Python
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>SQLite
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a><br/>HTML5
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a><br/>CSS3
-        <a href="#"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Go
-      </p>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
   <tr>
     <td><b>Frameworks</b></td>
     <td>
-      <p align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Next.js
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Tailwind CSS
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>React
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Angular
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Express
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Node.js
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Redux
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Sass
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Spring
-      </p>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
   <tr>
     <td><b>Database</b></td>
     <td>
-      <p align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>MongoDB
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>MySQL
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>PostgreSQL
-      </p>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
   <tr>
     <td><b>Cloud & DevOps</b></td>
     <td>
-      <p align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Terraform
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>AWS
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Ansible
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Docker
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Kubernetes
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Jenkins
-      </p>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <p align="center">
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>VS Code
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>GitHub
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Git
-        <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Postman
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Neo4j
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Linux
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" style="margin: 5px;"/></a><br/>Ubuntu
-      </p>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 </table>
