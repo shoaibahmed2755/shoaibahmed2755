@@ -8,8 +8,8 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 <table>
     <tr>
-        <th>My Website</th>
-        <th>My CV</th>
+        <th>Portfolio</th>
+        <th>Resume</th>
     </tr>
     <tr>
         <td>
@@ -20,10 +20,6 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
         </td>
     </tr>
 </table>
-
-
-
-### Contact me:
 
 ### Contact me:
 
