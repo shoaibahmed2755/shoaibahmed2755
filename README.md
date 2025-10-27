@@ -76,6 +76,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+        <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
