@@ -1,122 +1,170 @@
-# Hey there 👋, I'm Shoaib Ahmed  
+# Hey there 👋, I'm Hrithik Prativadi Bhayankara 
 
-### Java Developer | Full Stack Enthusiast  
+### Software Engineer - Full Stack Developer
 
-I’m a **BE Information Science student** from **Bangalore** with a passion for building seamless, high-performance web experiences. Skilled in **full-stack development** and **Natural Language Processing (NLP)**, I love blending technology and creativity to develop **smart, human-centric digital solutions** powered by modern tools and clean design principles.  
+Whether it's crafting seamless user experiences, developing robust applications, or leveraging machine learning and autonomous systems, I am committed to delivering excellence and contributing to the development of groundbreaking solutions that have a lasting impact.
 
----
+- 💬 Ask me about Full Stack, DevOps, Cloud Engineering (AWS S3, RDS, Elastic Beanstalk), CI/CD and I would be more than happy to help you. 😁
 
-### 🌐 Portfolio Links
+<br/>
 
-| Portfolio | Resume |
-|------------|---------|
-| [🔗 View My Work](#) | [📄 Download Resume](#) |
+<table>
+    <tr>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://hrithik-portfolio-azure.vercel.app/">🌐</a>
+        </td>
+        <td>
+            <a href="https://drive.google.com/file/d/1yNEc3XMooVOhLVpWTVqSMHuwhV-4T5ze/view?usp=drive_link">📃</a>
+        </td>
+    </tr>
+</table>
 
----
 
-### 🧑‍💻 About Me  
 
-- 💡 Passionate about **Java**, **React**, and **AI-powered applications**.  
-- 🧠 Always learning — from **backend architecture** to **frontend design**.  
-- 🌍 Based in **Bangalore, Karnataka**.  
-- 💼 Open to **Full-time** and **Remote** roles.  
+### Contact me:
 
----
+<a href="https://www.linkedin.com/in/hrithikpb/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="mailto:hrithikpb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
-### 🎓 Education  
+### Toolset
 
-- **The Oxford College of Engineering, Bangalore**  
-  *Bachelor of Engineering in Information Science (CGPA: 9)* — 2022-Present  
+<table>
+    <tr>
+        <td>Programming Languages</td>
+        <td>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frameworks</td>
+        <td>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a> -->
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>
+<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Cloud</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Tools</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+</table>
 
-- **SSMRV PU College, Bangalore**  
-  *Pre-University Course in PCMCs (84%)* — 2020-2022  
 
-- **Vivekananda Educational Centre, Bangalore**  
-  *ICSE (1st–10th)* — 2010-2020  
+<br/>
 
----
+### My GitHub Stats
 
-### 💼 Experience  
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=Hrithikpb&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithikpb"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Hrithikpb&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikpb&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
 
-**Java Developer Intern – NativeSoftTech, Bangalore**  
-*Dec 2024 – Feb 2025*  
-> Developed Java-based solutions for internal projects.  
+### My Leetcode Stats
 
-**Full Stack Web Developer Intern – Prinston Smart Engineers, Bangalore**  
-*Jul 2024 – Aug 2024*  
-> Assisted in full-stack web development tasks and UI enhancements.  
 
----
+<a href="https://leetcode.com/HrithikPB/">🔗</a>
 
-### 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Medical Scribe AI** | AI tool to transcribe and structure doctor–patient consultations into EMR-ready notes. | React · Node.js · NLP · HuggingFace · SQLite · Google STT |
-| **ERP-DEMO** | Employee Management System with realtime sync for add/edit/delete operations. | Next.js · Supabase · TypeScript |
-| **TwinEnergy** | AI-powered carbon footprint tracker with dashboards and insights. | React · Node.js · Chart.js · OpenAI API |
-| **CarsCheckout** | Java console app for car purchase calculations and model selection. | Java |
-| **Book Review Platform** | Browse, review, and rate books with personalized recommendations. | JavaScript · HTML · CSS |
-| **BWSSB Web App** | Water supply management dashboard for tanker requests. | TypeScript · Next.js |
-| **PerfumeStore** | E-commerce site for perfumes with pricing and purchase options. | HTML · CSS |
-| **Weather Application** | Real-time weather dashboard using OpenWeather API. | HTML · CSS · JavaScript |
-| **Mehvey Fruits** | Interactive fruit store with discounts and offers. | HTML · CSS · JavaScript |
-
----
-
-### 🛠️ Skills  
-
-**Languages:**  
-☕ Java (80%) • 🐍 Python (70%) • 💻 C (70%) • 🗄️ NoSQL (60%)  
-
-**Web Technologies:**  
-🌐 HTML5 (90%) • 🎨 CSS3 (85%) • ⚡ JavaScript (80%) • ⚛️ React (75%) • 🟩 Node.js (70%)  
-
-**Tools:**  
-🧑‍💻 VS Code (90%) • 🧩 Git (85%) • 🐙 GitHub (85%)  
-
-**Data & Analytics:**  
-📊 Excel (80%) • Power BI (65%)  
-
-**Soft Skills:**  
-🤝 Teamwork (85%) • 🗣️ Communication (80%) • ⏰ Time Management (80%) • 🧩 Problem Solving (85%)  
-
----
-
-### 🧾 Certifications  
-
-- **SigWave 2025 (Hackathon)** – The Oxford College of Engineering  
-- **GenQuezt – World Tourism Day** – Naukri.com  
-- **Introduction to Industry 4.0 and IoT** – VTU  
-- **Mastering React: Crash Course** – Udemy  
-- **Certificate of Appreciation – Docathon** – CellStrat  
-- **Cloud Computing (BE Honours)** – VTU  
-- **Data Analytics with Python (BE Honours)** – VTU  
-- **Natural Language Processing (BE Honours)** – VTU  
-- **Hackathon – Participation** – DSATM  
-- **Programming in Java (BE Honours)** – VTU  
-- **Introduction to Data Engineering on Azure** – Microsoft  
-- **Mastering AI Tools (Workshop)** – Be10x  
-- **Introduction to Cybersecurity Awareness** – HP  
-- **Bengaluru Tech Summit – Visitor Certificate**  
-- **Programming in Java** – NPTEL  
-- **Introduction to Generative AI** – Google  
-- **Java for Beginners** – Udemy  
-- **Intro to ChatGPT** – Udemy  
-- **JavaScript for Beginners** – Udemy  
-- **Data Analysis with Python** – LetsUpgrade  
-- **DSA in C++** – LetsUpgrade  
-- **HTML & CSS** – LetsUpgrade  
-- **Prompt Engineering** – LetsUpgrade  
-- **Python 3.4.3 Course** – IIT Bombay  
-
----
-
-### 📬 Contact  
-
-📧 **Email:** [shoaibahmed2755@gmail.com](mailto:shoaibahmed2755@gmail.com)  
-📍 **Location:** Bangalore, Karnataka  
-
----
-
-© 2025 Shoaib Ahmed. All rights reserved.  
+<table>
+    <tr>
+        <td>
+            <img src="https://leetcard.jacoblin.cool/HrithikPB?theme=dark"/>
+        </td>
+    </tr>
+</table>
