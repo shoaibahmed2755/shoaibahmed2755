@@ -40,11 +40,6 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 <a href="https://www.instagram.com/shoaibahmed__1" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
 </a>
-<a href="https://shoaib-ahmed-portfolio.vercel.app/" target="_blank">
-  🌐
-</a>
-
-
 
 ### Toolset
 
