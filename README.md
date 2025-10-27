@@ -13,10 +13,10 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
     </tr>
     <tr>
         <td>
-            <a href="https://hrithik-portfolio-azure.vercel.app/">🌐</a>
+            <a href="https://shoaib-ahmed-portfolio.vercel.app/">🌐</a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1yNEc3XMooVOhLVpWTVqSMHuwhV-4T5ze/view?usp=drive_link">📃</a>
+            <a href="https://drive.google.com/file/d/1OuXthVUGi4F94oY_a4V1vb2vxQhxoUmf/view?usp=sharing">📃</a>
         </td>
     </tr>
 </table>
