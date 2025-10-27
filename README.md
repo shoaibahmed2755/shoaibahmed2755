@@ -22,8 +22,6 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 </table>
 
 ### Contact Me:
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/" target="_blank" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
@@ -39,8 +37,6 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
   <a href="https://www.instagram.com/shoaibahmed__1" target="_blank" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
   </a>
-</p>
-
 
 ### Toolset
 
