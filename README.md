@@ -120,10 +120,14 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
             <!-- GitHub Streak Stats -->
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibahmed2755"/>
         </td> 
+    </tr>
+     <tr>
         <td>
             <!-- GitHub Main Stats -->
             <img src="https://github-readme-stats.vercel.app/api?username=shoaibahmed2755&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
+    </tr>
+     <tr>
         <td>
             <!-- GitHub Top Languages -->
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed2755&langs_count=10&layout=compact"/>
