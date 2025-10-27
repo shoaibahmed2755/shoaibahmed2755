@@ -114,10 +114,10 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 <table>
     <tr>
-        <td>
-            <!-- GitHub Profile Trophy -->
-            <img src="https://github-readme-stats.vercel.app/api?username=shoaibahmed2755&show_icons=true&theme=tokyonight" />
-        </td>
+        <!-- <td>
+            <!-- GitHub Profile Trophy 
+            <img src=" " />
+        </td>-->
         <td>
             <!-- GitHub Streak Stats -->
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibahmed2755"/>
