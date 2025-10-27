@@ -13,7 +13,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
     </tr>
     <tr>
         <td>
-            <a href="https://shoaib-ahmed-portfolio.vercel.app/">🌐</a>
+            <a href="https://shoaib-ahmed-portfolio.vercel.app/", target="_blank">🌐</a>
         </td>
         <td>
             <a href="https://drive.google.com/file/d/1OuXthVUGi4F94oY_a4V1vb2vxQhxoUmf/view?usp=sharing">📃</a>
@@ -23,21 +23,27 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/">
+### Contact Me:
+
+<a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
-<a href="mailto:shoaibahmed2755@gmail.com">
+<a href="mailto:shoaibahmed2755@gmail.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
 </a>
-<a href="https://github.com/shoaibahmed2755">
+<a href="https://github.com/shoaibahmed2755" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
 </a>
-<a href="https://x.com/ShoaibAhmed2755">
+<a href="https://x.com/ShoaibAhmed2755" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter/X"/>
 </a>
-<a href="https://www.instagram.com/shoaibahmed__1">
+<a href="https://www.instagram.com/shoaibahmed__1" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
 </a>
+<a href="https://shoaib-ahmed-portfolio.vercel.app/" target="_blank">
+  🌐
+</a>
+
 
 
 ### Toolset
