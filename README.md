@@ -40,7 +40,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 ### Toolset
 
-<h3 align="center">🧩 Tech Stack</h3>
+<h3 align="">🧩 Tech Stack</h3>
 
 <table align="center">
   <tr>
