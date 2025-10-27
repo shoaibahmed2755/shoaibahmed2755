@@ -135,13 +135,14 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 
 ### My LeetCode Stats
 
-<a href="https://leetcode.com/u/Uta3dmxQpj/">🔗</a>
+<a href="https://leetcode.com/u/shoaibahmed2755/">🔗</a>
 
 <table>
     <tr>
         <td>
-            <img src="https://leetcard.jacoblin.cool/Uta3dmxQpj?theme=dark"/>
+            <img src="https://leetcard.jacoblin.cool/shoaibahmed2755?theme=dark"/>
         </td>
     </tr>
 </table>
+
 
