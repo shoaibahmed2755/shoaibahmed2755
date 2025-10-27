@@ -51,7 +51,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <!-- <a href="#"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40" style="margin: 5px;"/></a> -->
     </td>
   </tr>
 
@@ -61,12 +61,12 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin: 5px;"/></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin: 5px;"/></a> -->
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 5px;"/></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" style="margin: 5px;"/></a> -->
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" style="margin: 5px;"/></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="margin: 5px;"/></a> -->
     </td>
   </tr>
 
@@ -75,12 +75,12 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
     <td>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+      <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/></a> -->
         <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td><b>Cloud & DevOps</b></td>
     <td>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" style="margin: 5px;"/></a>
@@ -90,7 +90,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="margin: 5px;"/></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" style="margin: 5px;"/></a>
     </td>
-  </tr>
+  </tr> -->
 
   <tr>
     <td><b>Tools</b></td>
