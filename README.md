@@ -21,25 +21,26 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
     </tr>
 </table>
 
-### Contact me:
-
 ### Contact Me:
 
-<a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-<a href="mailto:shoaibahmed2755@gmail.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
-</a>
-<a href="https://github.com/shoaibahmed2755" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
-</a>
-<a href="https://x.com/ShoaibAhmed2755" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter/X"/>
-</a>
-<a href="https://www.instagram.com/shoaibahmed__1" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shoaibahmed2755@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/shoaibahmed2755" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/ShoaibAhmed2755" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter/X"/>
+  </a>
+  <a href="https://www.instagram.com/shoaibahmed__1" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+</p>
+
 
 ### Toolset
 
