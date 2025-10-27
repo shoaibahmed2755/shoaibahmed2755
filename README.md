@@ -106,8 +106,6 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
   </tr>
 </table>
 
-
-
 <br/>
 
 ### My GitHub Stats
@@ -135,16 +133,15 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
     </tr> -->
 </table>
 
+### My LeetCode Stats
 
-### My Leetcode Stats
-
-
-<a href="https://leetcode.com/HrithikPB/">🔗</a>
+<a href="https://leetcode.com/u/Uta3dmxQpj/">🔗</a>
 
 <table>
     <tr>
         <td>
-            <img src="https://leetcard.jacoblin.cool/HrithikPB?theme=dark"/>
+            <img src="https://leetcard.jacoblin.cool/Uta3dmxQpj?theme=dark"/>
         </td>
     </tr>
 </table>
+
