@@ -34,7 +34,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
   <a href="https://x.com/ShoaibAhmed2755" target="_blank" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter/X"/>
   </a>
-  <a href="https://www.instagram.com/shoaibahmed__1" target="_blank" style="margin: 0 10px;">
+  <a href="#" target="_blank" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"/>
   </a>
 
