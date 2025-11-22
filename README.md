@@ -16,7 +16,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
             <a href="https://shoaib-ahmed-portfolio.vercel.app/", target="_blank">🌐</a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1OuXthVUGi4F94oY_a4V1vb2vxQhxoUmf/view?usp=sharing">📃</a>
+            <a href="https://drive.google.com/file/d/1_U5ZsHlTOGfWvid194HMRaRq2a6HxA8K/view?usp=sharing">📃</a>
         </td>
     </tr>
 </table>
