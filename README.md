@@ -22,7 +22,7 @@ I’m a **BE Information Science student** from **Bangalore** with a passion for
 </table>
 
 ### Contact Me:
-  <p align="left">
+  <p align="center">
   <a href="https://www.linkedin.com/in/shoaib-ahmed-b05973274/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/></a>
   <a href="mailto:shoaibahmed2755@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/></a>
   <a href="https://github.com/shoaibahmed2755" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/></a>
